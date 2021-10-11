@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b5682ef1-bd36-4c53-8315-7b02e00d39c8/resourceGroups/WEB/providers/Microsoft.Web/sites/avena",
+    "appService.deploySubpath": "."
+}
